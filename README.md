@@ -4,7 +4,7 @@
 
 ### 🌐 Select your language / Choisissez votre langue
 
-| 🇫🇷 [Version Française](https://github.com/fmoreau78470/app-profile-manager/blob/main/README.md#-fran%C3%A7ais) | 🇬🇧 [English Version](https://github.com/fmoreau78470/app-profile-manager/blob/main/README.md#-english) |
+|  🇬🇧 [English Version](https://github.com/fmoreau78470/app-profile-manager/blob/main/README.md#-english) | 🇫🇷 [Version Française](https://github.com/fmoreau78470/app-profile-manager/blob/main/README.md#-fran%C3%A7ais) | 
 | --- | --- |
 | Cliquez pour lire en français | Click to read in English |
 
