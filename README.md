@@ -27,10 +27,10 @@ It allows you to export, import, and switch between different APP configurations
 #### 🍎 On macOS (`app_manager.command`)
 
 1. Download or clone this repository.
-2. Move `app_manager.command` to your preferred location.
+2. Move `app_manager.sh` to your preferred location.
 3. Make the script executable (once) via Terminal:
-`chmod +x /path/to/app_manager.command`
-4. Double-click `app_manager.command` to run the manager.
+`chmod +x /path/to/app_manager.sh`
+4. Double-click `app_manager.sh` to run the manager.
 
 > **Profile Storage:** Profiles are saved as `.plist` files in `~/Documents/APP_Profiles/`.
 
@@ -65,7 +65,7 @@ Il permet d'exporter, d'importer et d'échanger à la volée différentes config
 
 ### 📁 Structure du projet
 
-* `app_manager.command` : Script d'exécution pour macOS (Zsh/Bash)
+* `app_manager.sh` : Script d'exécution pour macOS (Zsh/Bash)
 * `app_manager.bat` : Script d'exécution pour Windows (Batch)
 * `README.md` : Documentation du projet
 
@@ -74,10 +74,10 @@ Il permet d'exporter, d'importer et d'échanger à la volée différentes config
 #### 🍎 Sur macOS (`app_manager.command`)
 
 1. Télécharge ou clone ce dépôt.
-2. Déplace `app_manager.command` à l'emplacement souhaité.
+2. Déplace `app_manager.sh` à l'emplacement souhaité.
 3. Rend le fichier exécutable (une seule fois) via le Terminal :
-`chmod +x /chemin/vers/app_manager.command`
-4. Double-clique sur `app_manager.command` pour lancer le gestionnaire.
+`chmod +x /chemin/vers/app_manager.sh`
+4. Double-clique sur `app_manager.sh` pour lancer le gestionnaire.
 
 > **Stockage des profils :** Les profils sont enregistrés au format `.plist` dans `~/Documents/APP_Profiles/`.
 
