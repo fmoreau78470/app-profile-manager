@@ -4,7 +4,7 @@
 
 ### 🌐 Select your language / Choisissez votre langue
 
-| 🇫🇷 [Version Française](https://www.google.com/search?q=%2523-fran%25C3%25A7ais&utm_source=gemini) | 🇬🇧 [English Version](https://www.google.com/search?q=%2523-english&utm_source=gemini) |
+| 🇫🇷 [Version Française](https://www.google.com/search?q=%2523-fran%25C3%25A7ais&utm_source=gemini) | 🇬🇧 [English Version](https://github.com/fmoreau78470/app-profile-manager/blob/main/README.md#-english) |
 | --- | --- |
 | Cliquez pour lire en français | Click to read in English |
 
