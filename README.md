@@ -18,7 +18,7 @@ It allows you to export, import, and switch between different APP configurations
 
 ### 📁 Repository Structure
 
-* `app_manager.command` : Execution script for macOS (Zsh/Bash)
+* `app_manager.sh` : Execution script for macOS (Zsh/Bash)
 * `app_manager.bat` : Execution script for Windows (Batch)
 * `README.md` : Project documentation
 
